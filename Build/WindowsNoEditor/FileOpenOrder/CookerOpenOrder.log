@@ -1,0 +1,1397 @@
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/BP_GI.uasset" 0
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/DanielTestMap.uasset" 1
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WASD-Buttons.uasset" 2
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Fonts/Montserrat-Thin.uasset" 3
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Fonts/Montserrat-Regular.uasset" 4
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Fonts/Montserrat-Medium.uasset" 5
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Fonts/Montserrat-Light.uasset" 6
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Fonts/Montserrat-ExtraLight.uasset" 7
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Fonts/Montserrat-Bold.uasset" 8
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Fonts/Montserrat.uasset" 9
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/TutorialButtons.uasset" 10
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/speed_dial.uasset" 11
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r0_002_button_click.uasset" 12
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/b3.uasset" 13
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/b2.uasset" 14
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/b1.uasset" 15
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_Button_01.uasset" 16
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_026_safe_dialling.uasset" 17
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Safe_Dial-interface.uasset" 18
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/safebutton.uasset" 19
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/SafeButton1.uasset" 20
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Reflection__1_.uasset" 21
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/item_Structure.uasset" 22
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r0_001_adding_item.uasset" 23
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_ScaleDownAndDestroy.uasset" 24
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/notpad_overlay_.uasset" 25
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r0_003_drop_item.uasset" 26
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_010_hatching.uasset" 27
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_006_pencil_sharpener_exploding.uasset" 28
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_005_pencil_being_shredded.uasset" 29
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_004_insert_batteries.uasset" 30
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_RearangeArea.uasset" 31
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/smoke.uasset" 32
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Pencil_SharpnerRight.uasset" 33
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/CustomDragOP.uasset" 34
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Pencil_Sharpner.uasset" 35
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Pencil.uasset" 36
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/notpad_.uasset" 37
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 38
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/main-character_setting.uasset" 39
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/Textures/charTest.uasset" 40
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Master/M_Cutouts_Master.uasset" 41
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/M_Paige_4.uasset" 42
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/main-character_knocked-out.uasset" 43
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/M_Paige_3.uasset" 44
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/main-character+bag.uasset" 45
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/M_Paige_1.uasset" 46
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/main-character.uasset" 47
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/M_Paige_0.uasset" 48
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/main-character+_electrified.uasset" 49
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/PaigeElectified.uasset" 50
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/main-character+_different_outfit++Violin+bag.uasset" 51
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/M_Paige_5.uasset" 52
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/handphone.uasset" 53
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_handphone.uasset" 54
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/bernard/Bernard.uasset" 55
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/bernard/BernardNormal.uasset" 56
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 57
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 59
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 60
+"../../../Engine/Content/BasicShapes/Plane.uasset" 61
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/OtherCharacter.uasset" 62
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Master/M_Color_Master.uasset" 63
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Black.uasset" 64
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/main-character+_different_outfit+bag.uasset" 65
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/M_Paige_2.uasset" 66
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/bag+Violin.uasset" 67
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/unknown.uasset" 68
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/m_cursor.uasset" 69
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/cursors-Hand.uasset" 70
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/cursor.uasset" 71
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/WB_NormalCursor.uasset" 72
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/BP_CharacterCameraLoc.uasset" 73
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/CharacterComponent.uasset" 74
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_added_lewin_Skeleton.uasset" 75
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 76
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 77
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/addedelements_frozenplantsX_Popupbasic.uasset" 78
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/finalbookmesh2_Skeleton.uasset" 79
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/fp.uasset" 80
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_unsafe_lewin_Skeleton.uasset" 81
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/01_unsafe_open.uasset" 82
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_safe_lewin_Skeleton.uasset" 83
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/01_safe_open.uasset" 84
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Water_N.uasset" 85
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 86
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 87
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 88
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 89
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 90
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 91
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 92
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 93
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 94
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/P_Fire.uasset" 95
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Burst_M.uasset" 96
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_Burst.uasset" 97
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/P_Explosion.uasset" 98
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 99
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 100
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 101
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 102
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/expo.uasset" 103
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Textures/T_Spark_Core.uasset" 104
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/Materials/M_Spark.uasset" 105
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/BigCableShockRed.uasset" 106
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/BigCableShock.uasset" 107
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/turning_the_page_new.uasset" 108
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_015_total_chaos.uasset" 109
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_008_cocoa_pot_dropping.uasset" 110
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_005_closing_fridge.uasset" 111
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_004_opening_fridge.uasset" 112
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_016_kicking_out_gawn.uasset" 113
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r1_027_door_creak.uasset" 114
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r1_021_laundry_chute_sliding.uasset" 115
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_011_sparks_5.uasset" 116
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_011_sparks_4.uasset" 117
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_011_sparks_3.uasset" 118
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_011_sparks_2.uasset" 119
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_011_sparks_1.uasset" 120
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/RandomSparks.uasset" 121
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/dec1.uasset" 122
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/dec1_Mat.uasset" 123
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/dec1_Mat_Inst.uasset" 124
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_shelf_next_fridge_doors.uasset" 125
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_shelf_next_fridge_doors.uasset" 126
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_fridge_front_door.uasset" 127
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_fridge_front_door.uasset" 128
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_backDoor_left.uasset" 129
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_backDoor_left.uasset" 130
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r2_laundry_basket-4towels.uasset" 131
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r2_laundry_basket-4towels.uasset" 132
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r2_laundry_basket-2towels.uasset" 133
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r2_laundry_basket-2towels.uasset" 134
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/1.uasset" 135
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/WaterStain.uasset" 136
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/4.uasset" 137
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_waterstain_4.uasset" 138
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/3.uasset" 139
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_waterstain_3.uasset" 140
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/2.uasset" 141
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_waterstain_2.uasset" 142
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_waterstain_1.uasset" 143
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_pile_wet.uasset" 144
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_pile_wet.uasset" 145
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_chute.uasset" 146
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_chute_Phone.uasset" 147
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_chute-without_the_phone.uasset" 148
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_chute.uasset" 149
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_backwall_shelf_rightdoor.uasset" 150
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_backwall_shelf_rightdoor.uasset" 151
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_backwall_shelf_leftdoor.uasset" 152
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_backwall_shelf_leftdoor.uasset" 153
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_backwall_shelf_back_empty.uasset" 154
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_backwall_shelf_back_empty.uasset" 155
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/bernard/kidnapped.uasset" 156
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/bernard/BernardKidNapped.uasset" 157
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_2_washing_machines_Washer_inside.uasset" 158
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/WashingRotating_Trans.uasset" 159
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/WashingRotating.uasset" 160
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_2_washing_machines_Washer_door_frame.uasset" 161
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/WahsingDoor_Trans.uasset" 162
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/WahsingDoor.uasset" 163
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_washing_machine_top.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 165
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Top_On_Trans.uasset" 166
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_2_washing_machines-full.uasset" 167
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Front_Trans.uasset" 168
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_2_washing_machines_body.uasset" 169
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Front_On_Trans.uasset" 170
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Front_Off_Trans1.uasset" 171
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Front_Off.uasset" 172
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_front_wall.uasset" 173
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Back_Trans1.uasset" 174
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_washing_back.uasset" 175
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Back_Trans.uasset" 176
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Back_On_trans.uasset" 177
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/laundryTransPhone.uasset" 178
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/laundryTrans.uasset" 179
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Remote.uasset" 180
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/ShelfItem.uasset" 181
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/s_remote.uasset" 182
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Pencil_Sharpner-Broken.uasset" 183
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/s_pencilsharpenerBroken.uasset" 184
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/s_pencilsharpener.uasset" 185
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/nailfile.uasset" 186
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/s_nailfile.uasset" 187
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/LoveMP.uasset" 188
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/loveGlowMP.uasset" 189
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_right_wall.uasset" 190
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/ACut.uasset" 191
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/RightWallAlpha.uasset" 192
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_door_right_wall.uasset" 193
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/RightDoorAlpha.uasset" 194
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_safe_front.uasset" 195
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_safe_front.uasset" 196
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_messed_up_bed_top.uasset" 197
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_messed_up_bed_top.uasset" 198
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_messed_up_bed_rear.uasset" 199
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_messed_up_bed_rear.uasset" 200
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_LaundryChute_Door.uasset" 201
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_LaundryChute_Door.uasset" 202
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_LaundryChute.uasset" 203
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_LaundryChute.uasset" 204
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_carpet2.uasset" 205
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_carpet2.uasset" 206
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/phonebody.uasset" 207
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_phonebody.uasset" 208
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/gold_n.uasset" 209
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/gold_h.uasset" 210
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/gold_a.uasset" 211
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/Cover2.uasset" 212
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/Cover_Mat.uasset" 213
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/LoveGlowMT.uasset" 214
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/TVGlow.uasset" 215
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/519.uasset" 216
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/SnowGlowMaterial.uasset" 217
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/LoveMP_Video.uasset" 218
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/M_TVMedia_Trans.uasset" 219
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/LoveMP_Video_Mat.uasset" 220
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/tvnews3.uasset" 221
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/snowTV.uasset" 222
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/newsGlow.uasset" 223
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/loveTVscene.uasset" 224
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/LoveGlowMat.uasset" 225
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/NewTextureRenderTarget2D.uasset" 226
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/NewTextureRenderTarget2D_Mat1.uasset" 227
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/bernard/Matthew-Dough.uasset" 228
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/bernard/ChefNormal.uasset" 229
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/BP_Chef.uasset" 230
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/BP_Bernard.uasset" 231
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/finalbookmesh2_PhysicsAsset.uasset" 232
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/TexturesCom_WallpaperForties0078_seamless_S.uasset" 233
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/TexturesCom_WallpaperForties0078_seamless_S_Mat.uasset" 234
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/cool.uasset" 235
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/cool_Mat.uasset" 236
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/otherTextures/spec.uasset" 237
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/TexturesCom_Leather_Plain10_008x008_512_normal.uasset" 238
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/leather.uasset" 239
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/M_leather.uasset" 240
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/cardboardSide2.uasset" 241
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/cardboardSide2_Mat.uasset" 242
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/finalbookmesh2.uasset" 243
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/coolDarker.uasset" 244
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/StarterContent/Particles/P_ElectroShock.uasset" 245
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_009_painting_crashing_down.uasset" 246
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/PaintingFallTest.uasset" 247
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_016_phone_hang_up.uasset" 248
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_015_phone_pick_up.uasset" 249
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_014_tape_fixing.uasset" 250
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_013_gum_fixing.uasset" 251
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_011_shoving_carpet.uasset" 252
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_9.uasset" 253
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_8.uasset" 254
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_6.uasset" 255
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_5.uasset" 256
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_4.uasset" 257
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_3.uasset" 258
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_2.uasset" 259
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_1.uasset" 260
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_0.uasset" 261
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/reflection.uasset" 262
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/phone_Dial-interface.uasset" 263
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_017_phone_dialling_7.uasset" 264
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/buttons.uasset" 265
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/PhoneButton.uasset" 266
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/PhoneInterface.uasset" 267
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/kitchenC__1__Skeleton.uasset" 268
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/K_counterlower_Anim.uasset" 269
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/kitchenC__1__PhysicsAsset.uasset" 270
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_wide_kitchen_stuff_bar.uasset" 271
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_wide_kitchen_stuff_bar.uasset" 272
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_shelf_next_fridge_top.uasset" 273
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_shelf_next_fridge_top.uasset" 274
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_shelf_next_fridge_frame.uasset" 275
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_shelf_next_fridge_frame.uasset" 276
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_one_sack_of_flour3.uasset" 277
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_one_sack_of_flour3.uasset" 278
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_one_sack_of_flour2.uasset" 279
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_one_sack_of_flour2.uasset" 280
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_one_sack_of_flour1.uasset" 281
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_one_sack_of_flour1.uasset" 282
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_kitchen_bar_top.uasset" 283
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_kitchen_bar_top.uasset" 284
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_kitchen_bar_front.uasset" 285
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_kitchen_bar_front.uasset" 286
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_kitchen_bar_back_inner.uasset" 287
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_kitchen_bar_back_inner.uasset" 288
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_fridge_top.uasset" 289
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_fridge_top.uasset" 290
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_fridge_front_frame.uasset" 291
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_fridge_front_frame.uasset" 292
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_fridge_content.uasset" 293
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_fridge_content.uasset" 294
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_top.uasset" 295
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_top.uasset" 296
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_front.uasset" 297
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_front.uasset" 298
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_content_7.uasset" 299
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_content_7.uasset" 300
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_content_6.uasset" 301
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_content_6.uasset" 302
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_content_5.uasset" 303
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_content_5.uasset" 304
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_content_4.uasset" 305
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_content_4.uasset" 306
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_content_3.uasset" 307
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_content_3.uasset" 308
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_content_2.uasset" 309
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_content_2.uasset" 310
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_content_1.uasset" 311
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_content_1.uasset" 312
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_shelf_next_fridge_back.uasset" 313
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_shelf_next_fridge_back.uasset" 314
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_mixer.uasset" 315
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_mixer.uasset" 316
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_backwall.uasset" 317
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_backwall.uasset" 318
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_backDoor_right.uasset" 319
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_backDoor_right.uasset" 320
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/cocoabot.uasset" 321
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_cocoabot.uasset" 322
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/M_Transparent.uasset" 323
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/kitchenC__1_.uasset" 324
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Top.uasset" 325
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Front.uasset" 326
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Back.uasset" 327
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_front_wall.uasset" 328
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_backwall_door.uasset" 329
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_backwall_door.uasset" 330
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Top_On.uasset" 331
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Front_On.uasset" 332
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Back_On.uasset" 333
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/02_Room/LR_base_PhysicsAsset.uasset" 334
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_pile_small.uasset" 335
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_pile_small.uasset" 336
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_pile_medium.uasset" 337
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_pile_medium.uasset" 338
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_basket.uasset" 339
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_basket.uasset" 340
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_laundry_back_wall.uasset" 341
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_laundry_back_wall.uasset" 342
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_backwall_shelf_top.uasset" 343
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_backwall_shelf_top.uasset" 344
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/r2_backwall_shelf_front.uasset" 345
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_r2_backwall_shelf_front.uasset" 346
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/02_Room/LR_base_Skeleton.uasset" 347
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/02_Room/LR_base.uasset" 348
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/02_Room/closetshake2.uasset" 349
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/close/UNsafeelements_close.uasset" 350
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/close/safeelements_close.uasset" 351
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/close/addedelements_close.uasset" 352
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/addedelements_frozenplantsX_pfalling__1_.uasset" 353
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/01_UNsafeelement_bropening.uasset" 354
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bathroom_wall.uasset" 355
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bathroom_wall.uasset" 356
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_018_opening_closet.uasset" 357
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_017_picking_up_towel.uasset" 358
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_014_closing_closet.uasset" 359
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_carpet_tv.uasset" 360
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_carpet_tv.uasset" 361
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/carpetTV.uasset" 362
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightBlue.uasset" 363
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/cableTape.uasset" 364
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Pink.uasset" 365
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/cableGum.uasset" 366
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/cableFix.uasset" 367
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/cableEND.uasset" 368
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/Blug_socket.uasset" 369
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_Blug_socket.uasset" 370
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/cable.uasset" 371
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_unsafe_lewin_PhysicsAsset.uasset" 372
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_sofa_top.uasset" 373
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_sofa_top.uasset" 374
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_sofa_Side.uasset" 375
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_sofa_Side.uasset" 376
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_sofa_back_top.uasset" 377
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_sofa_back_top.uasset" 378
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_coffeetable_Top.uasset" 379
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_coffeetable_Top.uasset" 380
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_coffeetable_holding.uasset" 381
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_coffeetable_holding.uasset" 382
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bathroom_sink-top.uasset" 383
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bathroom_sink-top.uasset" 384
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bathroom_sink-Front.uasset" 385
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bathroom_sink-Front.uasset" 386
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bathroom_shelf_top.uasset" 387
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bathroom_shelf_top.uasset" 388
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bathroom_shelf_Front.uasset" 389
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bathroom_shelf_Front.uasset" 390
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bathroom_mirror.uasset" 391
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bathroom_mirror.uasset" 392
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_unsafe_lewin.uasset" 393
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_right_wall.uasset" 394
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bed_commode_front.uasset" 395
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bed_commode_front.uasset" 396
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_safe_lewin_PhysicsAsset.uasset" 397
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_telephone_table_top.uasset" 398
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_telephone_table_top.uasset" 399
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_telephone_table_front.uasset" 400
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_telephone_table_front.uasset" 401
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_safe_rear.uasset" 402
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_safe_rear.uasset" 403
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_left_wall.uasset" 404
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_left_wall.uasset" 405
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bed_top.uasset" 406
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bed_top.uasset" 407
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bed_rear_top.uasset" 408
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bed_rear_top.uasset" 409
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bed_rear.uasset" 410
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bed_rear.uasset" 411
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/NewPhysicalMaterial.uasset" 412
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bed_front.uasset" 413
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bed_front.uasset" 414
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_bed_commode_top.uasset" 415
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_bed_commode_top.uasset" 416
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_safe_lewin.uasset" 417
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_door_right_wall.uasset" 418
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/phone.uasset" 419
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_phone.uasset" 420
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/notpad-perspective.uasset" 421
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_notpad-perspective.uasset" 422
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_added_lewin_PhysicsAsset.uasset" 423
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r_plant.uasset" 424
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r_plant.uasset" 425
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_Windows.uasset" 426
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_Windows.uasset" 427
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_left_wall_painting.uasset" 428
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_left_wall_painting.uasset" 429
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_left_wall_painting-back.uasset" 430
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_r1_left_wall_painting-back.uasset" 431
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/night-lamp.uasset" 432
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_night-lamp.uasset" 433
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/L-Plant.uasset" 434
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_L-Plant.uasset" 435
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/cups.uasset" 436
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_cups.uasset" 437
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/Cups+AshTray.uasset" 438
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_Cups+AshTray.uasset" 439
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/01_added_lewin.uasset" 440
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/phoneRadius.uasset" 441
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/kitchenC__1__Anim.uasset" 442
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_WS_Top_Trans.uasset" 443
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 444
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_007_whistle.uasset" 445
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/kitchen_cl_cfall.uasset" 446
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/cool1.uasset" 447
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/coolUNLIT.uasset" 448
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/pg2only.uasset" 449
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/02_Room/LR_base_Anim.uasset" 450
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 451
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 452
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Actors/InteractActor.uasset" 453
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/DragActor.uasset" 454
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_009a_tv_news.uasset" 455
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_008a_tv_uninteresting.uasset" 456
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_015_closet_rattling.uasset" 457
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_003_opening_washing_machine.uasset" 458
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_002_laundry_door_closing.uasset" 459
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_001_laundry_door_opening.uasset" 460
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_000_washing_machine_loop.uasset" 461
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/BP_FoldTest.uasset" 462
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/MainCharacter.uasset" 463
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_9.uasset" 464
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_8.uasset" 465
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_7.uasset" 466
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_6.uasset" 467
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_5.uasset" 468
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_4.uasset" 469
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_3.uasset" 470
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_2.uasset" 471
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_1.uasset" 472
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021d_last_number_0.uasset" 473
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_9.uasset" 474
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_8.uasset" 475
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_7.uasset" 476
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_6.uasset" 477
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_5.uasset" 478
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_4.uasset" 479
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_3.uasset" 480
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_2.uasset" 481
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_1.uasset" 482
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021c_number_0.uasset" 483
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_Item.uasset" 484
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_ItemDrag.uasset" 485
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/wallet.uasset" 486
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Tape.uasset" 487
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/speeddial.uasset" 488
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/key.uasset" 489
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/ID.uasset" 490
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Gum.uasset" 491
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/dry_towel.uasset" 492
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/coin.uasset" 493
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Batteries.uasset" 494
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/bag.uasset" 495
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/waitress-uniform.uasset" 496
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/items.uasset" 497
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_Inventory.uasset" 498
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/SafeInterface.uasset" 499
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/SpeedDialsInterface.uasset" 500
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/invnentoryBG.uasset" 501
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/SmallButton.uasset" 502
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/paigeHead.uasset" 503
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/info-box2.uasset" 504
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/HintItems4.uasset" 505
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/info-box1.uasset" 506
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/HintItems3.uasset" 507
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/info-box3.uasset" 508
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/HintItems2.uasset" 509
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/HintItems1.uasset" 510
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/NewMediaPlayer.uasset" 511
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/mp2.uasset" 512
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/NewMediaPlayer_Video.uasset" 513
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/NewMediaPlayer_Video_Mat.uasset" 514
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/mp2_Video.uasset" 515
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/mp2_Video_Mat.uasset" 516
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_OverlayLoop.uasset" 517
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/sliderThumb.uasset" 518
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/reset.uasset" 519
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/OurSaveGame.uasset" 520
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_OptionsMenu.uasset" 521
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ink16.uasset" 522
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_PauseMenu.uasset" 523
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_GameUI.uasset" 524
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/The_Floor_is_Lacrimosa.uasset" 525
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/Three_Pages.uasset" 526
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_007_mixer_loop.uasset" 527
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_Desktop_-_Highly_unfunctional_Hotel_Room2.uasset" 528
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Nothing_to_see_here.uasset" 529
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/s_r3_016_fire_loop.uasset" 530
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/BP_OurPC.uasset" 531
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_017_end.uasset" 532
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_016_flour.uasset" 533
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_015_back_door.uasset" 534
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_014_cable.uasset" 535
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_013_mixer.uasset" 536
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_012b_kitchen_island.uasset" 537
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_012a_kitchen_island.uasset" 538
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_011_another_way.uasset" 539
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_008_pot.uasset" 540
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_007_fridge.uasset" 541
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_004a_not_a_thief.uasset" 542
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_004_empty_shelf.uasset" 543
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_003_pot_shelf.uasset" 544
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_002_tin_shelf.uasset" 545
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_001_start.uasset" 546
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_024b_dough.uasset" 547
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_024a_dough.uasset" 548
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_023_not_here_to_clean.uasset" 549
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_022_water_stain.uasset" 550
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_021_towels.uasset" 551
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_020_hiding_in_dirty_clothes.uasset" 552
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_019_dirty_distraction.uasset" 553
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_018_clothes_too_dirty.uasset" 554
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_017_empty_closet.uasset" 555
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_016c_gawn.uasset" 556
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_016b_gawn.uasset" 557
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_016a_gawn.uasset" 558
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_015b_police_at_the_door.uasset" 559
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_015_police_at_the_door.uasset" 560
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_014b_open_closet.uasset" 561
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_014a_open_closet.uasset" 562
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_013_refuse_to_open_closet.uasset" 563
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_012_hiding_in_tumble_dryer.uasset" 564
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_011a_checking_drying_clothes.uasset" 565
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_011_drying_clothes.uasset" 566
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r1_037_id_card.uasset" 567
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_003_dropping_item.uasset" 568
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_019_closet_fight.uasset" 569
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_013_locking_closet.uasset" 570
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_012_unlocking_closet.uasset" 571
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_011_dryer_loop.uasset" 572
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_010_starting_dryer.uasset" 573
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/logo__2_.uasset" 574
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Credits.uasset" 575
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/z_other/T_RoundedBoxLeft_Icon.uasset" 576
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/WB_RoundedBoxBG.uasset" 577
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/WB_SpeakerName.uasset" 578
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/WB_Text.uasset" 579
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/WB_TextChild.uasset" 580
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_009_putting_clothes_in_dryer.uasset" 581
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/d_r2_002c_leaving_room.uasset" 582
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/d_r1_002d_name_tag__1_.uasset" 583
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_010_clothes_too_small.uasset" 584
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_009_searching_for_key.uasset" 585
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_008_hiding_in_washing_machine.uasset" 586
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_007b_clothes_fitting.uasset" 587
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_007a_clothes_fitting.uasset" 588
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_006b_clothes_too_big.uasset" 589
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_006a_clothes_too_big.uasset" 590
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_005_empty_machine.uasset" 591
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_004_finally_leaving_room.uasset" 592
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_003c_not_leaving_room_yet.uasset" 593
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_003b_not_leaving_room_yet.uasset" 594
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_003a_not_leaving_room_yet.uasset" 595
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_003_not_leaving_room_yet.uasset" 596
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_002b_leaving_room.uasset" 597
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_002a_leaving_room.uasset" 598
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r2_001_start.uasset" 599
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r1_029i_sharpener_broken.uasset" 600
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r1_013b_pencil_sharpener_batteries.uasset" 601
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r1_013a_pencil_sharpener_batteries.uasset" 602
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r1_010c_remote_not_working.uasset" 603
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r1_002d_name_tag.uasset" 604
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r0_005_joke.uasset" 605
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r0_004_head.uasset" 606
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r0_003_funny.uasset" 607
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r0_002_bomb.uasset" 608
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r0_000_tutorial.uasset" 609
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_033b_laundry_chute.uasset" 610
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_033a_laundry_chute.uasset" 611
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_032b_door_locked.uasset" 612
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_032a_door_locked.uasset" 613
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_031_speed_dials.uasset" 614
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029j_sharpener_broken.uasset" 615
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029h_sharpener_batteries_missing.uasset" 616
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029g_sharpener_batteries_missing.uasset" 617
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029f_remote_batteries_missing.uasset" 618
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029e_remote_batteries_missing.uasset" 619
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029d_remote_missing.uasset" 620
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029c_remote_missing.uasset" 621
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029b_door_locked.uasset" 622
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029a_door_locked.uasset" 623
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_029_hotel_reception.uasset" 624
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_028d_hotel_restaurant.uasset" 625
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_028c_hotel_restaurant.uasset" 626
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_028b_hotel_spa.uasset" 627
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_028a_hotel_spa.uasset" 628
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_028_phone_call.uasset" 629
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_027_phone_no_numbers.uasset" 630
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_020_pressing_down_handle.uasset" 631
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_018_knocking.uasset" 632
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_008_safe_unlocked.uasset" 633
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_003_remote_control_button_press.uasset" 634
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_002_tv_button_press.uasset" 635
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_001_chewing_gum.uasset" 636
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/WB_SkipButton.uasset" 637
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Skip_Enum.uasset" 638
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/BP_DialogueStructure.uasset" 639
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_026_dead_phone.uasset" 640
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_025_tape_fixing.uasset" 641
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_024b_gum_fixing.uasset" 642
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_024a_gum_fixing.uasset" 643
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_023_shock.uasset" 644
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_022b_carpet.uasset" 645
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_022a_carpet.uasset" 646
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021b_notepad_hatching.uasset" 647
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_021a_notepad_hatching.uasset" 648
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_020b_safe.uasset" 649
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_020a_safe.uasset" 650
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_019_id.uasset" 651
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_018_bag_inspection.uasset" 652
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_017_safe_opened.uasset" 653
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_016_notepad.uasset" 654
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_015a_couch.uasset" 655
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_015_couch.uasset" 656
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_014b_pencil_sharpener_eating.uasset" 657
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_014a_pencil_sharpener_eating.uasset" 658
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_014_pencil_sharpener_eating.uasset" 659
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_013_pencil_sharpener_batteries.uasset" 660
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_012_pencil_sharpener.uasset" 661
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_011_insert_batteries.uasset" 662
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_010b_bed.uasset" 663
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_010a_bed.uasset" 664
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_009d_tv_news.uasset" 665
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_009c_tv_news.uasset" 666
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_009b_tv_news.uasset" 667
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_008b_tv_kitsch.uasset" 668
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_007_tv_switch_channel.uasset" 669
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_006_tv_static.uasset" 670
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_005b_gum.uasset" 671
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_005a_gum.uasset" 672
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_004a_trouble_door.uasset" 673
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_004_trouble.uasset" 674
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_002c_name_tag_id_known.uasset" 675
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_002b_name_tag_known.uasset" 676
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_002a_name_tag_unknown.uasset" 677
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_002_name_tag.uasset" 678
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_001_start.uasset" 679
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_008_searching_dry_laundry.uasset" 680
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_007_closing_dryer.uasset" 681
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_006_opening_dryer.uasset" 682
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_005_searching_wet_laundry.uasset" 683
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r1_028_pencil_sharpener_opening.uasset" 684
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r1_012_electro_shock.uasset" 685
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r1_036_nail_file.uasset" 686
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r1_035_coin.uasset" 687
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r1_030d_locked_door.uasset" 688
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r1_030c_locked_door.uasset" 689
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r1_030b_locked_door.uasset" 690
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r1_030a_locked_door.uasset" 691
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_023_drawer_closing.uasset" 692
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_022_drawer_opening.uasset" 693
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/BP_DialogueWindow.uasset" 694
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 695
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 696
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 697
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 698
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 699
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 700
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 701
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 702
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 703
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 704
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 705
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 706
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 707
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 708
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 709
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 710
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 711
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 712
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 713
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 714
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 715
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 716
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 717
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 718
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 719
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 720
+"../../Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 721
+"../../Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 722
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 723
+"../../Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 724
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uasset" 725
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 726
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 727
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 728
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 729
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 730
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 731
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 732
+"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 733
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 734
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 735
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 736
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 737
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 738
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 739
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 740
+"../../Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uasset" 741
+"../../Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uasset" 742
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uasset" 743
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/BoxLocation.uasset" 744
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 745
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 746
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 747
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 748
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 749
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 750
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 751
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 752
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 753
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 754
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 755
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 756
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 757
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 758
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 759
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Particles/N_Dust.uasset" 760
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/BP_MenuPawn.uasset" 761
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_Menu.uasset" 762
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/BP_OurHUD.uasset" 763
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/BP_HUD.uasset" 764
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_002_kitchen_door_closing.uasset" 765
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r2_004_dropping_wet_laundry.uasset" 766
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r3_001_kitchen_door_opening.uasset" 767
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/dia2.uasset" 768
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/dia_Lewin.uasset" 769
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Interact.uasset" 770
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Actors/Mirror.uasset" 771
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Mirror.uasset" 772
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Room1_DataTable.uasset" 773
+"../../../Engine/Content/BasicShapes/Cube.uasset" 774
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Actors/Bed.uasset" 775
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Geometry/lambert2.uasset" 776
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Geometry/lambert3.uasset" 777
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Geometry/lambert4.uasset" 778
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Geometry/xyz_pPlane4_Skeleton.uasset" 779
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Geometry/xyz_pPlane4_PhysicsAsset.uasset" 780
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Geometry/xyz.uasset" 781
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Geometry/xyz_pPlane4_Anim.uasset" 782
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/180full_Skeleton.uasset" 783
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/180full_PhysicsAsset.uasset" 784
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/TV.uasset" 785
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/T_R.uasset" 786
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/L_T.uasset" 787
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/L_F.uasset" 788
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/F_R.uasset" 789
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/default1.uasset" 790
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/180full.uasset" 791
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/180full_Anim.uasset" 792
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/addedelements_frozenplantsX_Skeleton.uasset" 793
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/addedelements_frozenplantsX_PhysicsAsset.uasset" 794
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/addedelements_frozenplantsX.uasset" 795
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/addedelements_frozenplantsX_Anim.uasset" 796
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/book1stpageanim_Skeleton.uasset" 797
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/book1stpageanim_PhysicsAsset.uasset" 798
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/book1stpageanim.uasset" 799
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/book1stpageanim_Anim.uasset" 800
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 801
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/book1stpageanim_Anim_PreviewMesh.uasset" 802
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV1_Skeleton.uasset" 803
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV1_PhysicsAsset.uasset" 804
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/pages.uasset" 805
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/leatherbackside.uasset" 806
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/leather.uasset" 807
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV1.uasset" 808
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV1_Anim.uasset" 809
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV1_Anim_PreviewMesh.uasset" 810
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV1_Anim_PreviewMesh1.uasset" 811
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV1_Anim_PreviewMesh2.uasset" 812
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/initialShadingGroup1.uasset" 813
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_addelements_Skeleton.uasset" 814
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_addelements_PhysicsAsset.uasset" 815
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Grey.uasset" 816
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Green.uasset" 817
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_DarkRed.uasset" 818
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_DarkPurple.uasset" 819
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_DarkOrange.uasset" 820
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_DarkGrey.uasset" 821
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_DarkGreen.uasset" 822
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Blue.uasset" 823
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_addelements.uasset" 824
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_allcarpets_Skeleton.uasset" 825
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_allcarpets_PhysicsAsset.uasset" 826
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/pasted__lambert2.uasset" 827
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_allcarpets.uasset" 828
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_allcarpets_Anim.uasset" 829
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_safeelements_Skeleton.uasset" 830
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_safeelements_PhysicsAsset.uasset" 831
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_safeelements.uasset" 832
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_safeelements_Anim.uasset" 833
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_safeelements_Anim_PreviewMesh.uasset" 834
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelements_bropening.uasset" 835
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_safeelements_bropening.uasset" 836
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelement_brclosed.uasset" 837
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_safeelement_brclosed.uasset" 838
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_UNsafeelements_Skeleton.uasset" 839
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_UNsafeelements_PhysicsAsset.uasset" 840
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_UNsafeelements.uasset" 841
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_UNsafeelements_Anim.uasset" 842
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_UNsafeelements_Anim_PreviewMesh.uasset" 843
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_UNsafeelement_brclosed.uasset" 844
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_UNsafeelement_brclosed.uasset" 845
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_UNsafeelement_bropening.uasset" 846
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/room1_UNsafeelement_bropening.uasset" 847
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_addelements_Anim.uasset" 848
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_addelements_bropening.uasset" 849
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_addelements_pfall.uasset" 850
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_addelements_sopening.uasset" 851
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_addelements_sopening_PreviewMesh.uasset" 852
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelements_bropening_pfallen.uasset" 853
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelements_bropening_pfallen_PreviewMesh.uasset" 854
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelement_brclosed1.uasset" 855
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelement_brclosed1_PreviewMesh.uasset" 856
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelement_pfall_brclosed.uasset" 857
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/anims/room1_safeelement_pfall_bropen.uasset" 858
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV/bookUV_17_Skeleton.uasset" 859
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV/bookUV_17_PhysicsAsset.uasset" 860
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV/bookUV_17.uasset" 861
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV/bookUV_17_Anim_PreviewMesh.uasset" 862
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/addedelements_frozenplants_Skeleton.uasset" 863
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/addedelements_frozenplants_PhysicsAsset.uasset" 864
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/addedelements_frozenplants.uasset" 865
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/addedelements_frozenplants_Anim.uasset" 866
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/room1_addelements_Anim.uasset" 867
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh1_Skeleton.uasset" 868
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/room1_addelements_bropening.uasset" 869
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh2_Skeleton.uasset" 870
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/room1_addelements_pfall.uasset" 871
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh_Skeleton.uasset" 872
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/room1_addelements_sopening.uasset" 873
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh_PhysicsAsset.uasset" 874
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh.uasset" 875
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh1_PhysicsAsset.uasset" 876
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh1.uasset" 877
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh2_PhysicsAsset.uasset" 878
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/test/testmesh2.uasset" 879
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/otherTextures/christmas_photo_studio_01_2k.uasset" 880
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Master/HDR_BG_Master.uasset" 881
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/BG_HDR.uasset" 882
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/OutsideTheBook/HDR_BG.uasset" 883
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/BG_HDR_Inst.uasset" 884
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/bh.uasset" 885
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/bookBlend_PhysicsAsset.uasset" 886
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Fbx_Default_Material_0.uasset" 887
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/bookBlend.uasset" 888
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_White.uasset" 889
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/M_leatherLight.uasset" 890
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/bookwUV1.uasset" 891
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/BP_FoldTest.uasset" 892
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/cableGumTape.uasset" 893
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/CameraLoc.uasset" 894
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/charTest.uasset" 895
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/christmas_photo_studio_01_2k.uasset" 896
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Color.uasset" 897
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Color_Inst.uasset" 898
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Particles/N_Dust2.uasset" 899
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/N_Dust2.uasset" 900
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Particles/N_Fireflies.uasset" 901
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/N_Fireflies.uasset" 902
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/spec.uasset" 903
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/01_added_open.uasset" 904
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/01_safe_bropening_pfallen.uasset" 905
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/01_safe_close.uasset" 906
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/01_safe_openingDoor.uasset" 907
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/addedelements_frozenplantsX_safeopening.uasset" 908
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/addedelements_frozenplantsX_safeopening__1_.uasset" 909
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/01_Room/animations/safemesh_bropening.uasset" 910
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/kitchen8.uasset" 911
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/kitchenC_cfall.uasset" 912
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/K_counterlower_PhysicsAsset.uasset" 913
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/K_counterlower.uasset" 914
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/r3_kitchen_bar_top.uasset" 915
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/test1.uasset" 916
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/r3_kitchen_bar_front.uasset" 917
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/r3_kitchen_bar_front_Mat.uasset" 918
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/ktexTEST__1__Skeleton.uasset" 919
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/ktexTEST__1__PhysicsAsset.uasset" 920
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/ktexTEST__1_.uasset" 921
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/03_Room2/NewFolder/ktexTEST__1__Anim.uasset" 922
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/01_added_lewin.uasset" 923
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/01_safe_lewin.uasset" 924
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/01_unsafe_lewin.uasset" 925
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder/safeTest_Skeleton.uasset" 926
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder/safeTest_PhysicsAsset.uasset" 927
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder/safeTest.uasset" 928
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder/safeTest_Anim.uasset" 929
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder1/frozen3_Skeleton.uasset" 930
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder1/frozen3_PhysicsAsset.uasset" 931
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Yellow.uasset" 932
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Red.uasset" 933
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightPink.uasset" 934
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightOrange.uasset" 935
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_DarkBlue.uasset" 936
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder1/frozen3.uasset" 937
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/NewFolder1/frozen3_Anim.uasset" 938
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/01_added_lewin_PhysicsAsset.uasset" 939
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/01_added_lewin.uasset" 940
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/01_added_lewin_Anim.uasset" 941
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/neu_PhysicsAsset.uasset" 942
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/neu.uasset" 943
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/neu_Anim.uasset" 944
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/BP_Dias.uasset" 945
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/diaa.uasset" 946
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/NewBlueprint.uasset" 947
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/neu_PhysicsAsset.uasset" 948
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/neu.uasset" 949
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/neu_Anim.uasset" 950
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/neu_PhysicsAsset.uasset" 951
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/neu.uasset" 952
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/neu_Anim.uasset" 953
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/NewFolder/neu2_PhysicsAsset.uasset" 954
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/NewFolder/neu2.uasset" 955
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/NewFolder/neu2_Anim.uasset" 956
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/NewFolder/NewFolder/neu2_Skeleton.uasset" 957
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/NewFolder/NewFolder/neu2_PhysicsAsset.uasset" 958
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/NewFolder/NewFolder/neu2.uasset" 959
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/1stRoom_New/test/test2/test3/test4/NewFolder/NewFolder/neu2_Anim.uasset" 960
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/Mirror2.uasset" 961
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/unsafe/my_unsafe_Skeleton.uasset" 962
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/unsafe/my_unsafe_Anim.uasset" 963
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/safeElements/safElementse_Skeleton.uasset" 964
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/safeElements/safElementse_Anim.uasset" 965
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_021_laundry_chute_sliding.uasset" 966
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/TexturesCom_PaperDecorative0003_1_seamless_S.uasset" 967
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/M_Paper.uasset" 968
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 969
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 970
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 971
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 972
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 973
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 974
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 975
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 976
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 977
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 978
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 979
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 980
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Textures/T_Male_N.uasset" 981
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Textures/T_Male_Mask.uasset" 982
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/M_Male_Body.uasset" 983
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/17my.uasset" 984
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Jana/bookwUV/bookUV_17_Anim.uasset" 985
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Blueprints/saas.uasset" 986
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/cardboardSide.uasset" 987
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/cardboardSide2_Mat1.uasset" 988
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/finalbookmesh2_Anim.uasset" 989
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/pg2_altered.uasset" 990
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/pg_2_only.uasset" 991
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewBook/sp.uasset" 992
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewFolder/normal_Skeleton.uasset" 993
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewFolder/normal_PhysicsAsset.uasset" 994
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewFolder/normal.uasset" 995
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewFolder/normal_Anim.uasset" 996
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/other/LewinTestMap_BuiltData.uasset" 997
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/floor/room1_ground_Skeleton.uasset" 998
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/floor/room1_ground_PhysicsAsset.uasset" 999
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/floor/room1_ground.uasset" 1000
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/floor/room1_ground_Anim.uasset" 1001
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/safeElements/safElementse_PhysicsAsset.uasset" 1002
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/paper.uasset" 1003
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/M_PaperMat.uasset" 1004
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Room1_AnimatedMesh/safeElements/safElementse.uasset" 1005
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/DragTest.uasset" 1006
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Pencil_SharpnerLeft.uasset" 1007
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Uracellulose.uasset" 1008
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/WB_Rubbing.uasset" 1009
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Battery.uasset" 1010
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Cable+Gum+Tape.uasset" 1011
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Cable+Gum.uasset" 1012
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/UI/Inventory/Cable.uasset" 1013
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/unsafe/my_unsafe_PhysicsAsset.uasset" 1014
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/unsafe/my_unsafe.uasset" 1015
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/light.uasset" 1016
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/loveGlow.uasset" 1017
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/loveGlow2.uasset" 1018
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/loveGlow3.uasset" 1019
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/LoveMP_Video_Mat1.uasset" 1020
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/tvnews.uasset" 1021
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/video/ingame/tvnews2.uasset" 1022
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1023
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1024
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1025
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1026
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1027
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1028
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 1029
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 1030
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Textures/T_Female_N.uasset" 1031
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 1032
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Textures/T_Male_N.uasset" 1033
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 1034
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 1035
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/M_t.uasset" 1036
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/notpad.uasset" 1037
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/paper.uasset" 1038
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/plantTest.uasset" 1039
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_sofa_back-front.uasset" 1040
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room1/Textures/r1_sofa_front.uasset" 1041
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room2/M_t.uasset" 1042
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_big_shelf_back.uasset" 1043
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_big_shelf_back.uasset" 1044
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/r3_shelf_next_fridge_front.uasset" 1045
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_r3_shelf_next_fridge_front.uasset" 1046
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Assets/Room3/M_t.uasset" 1047
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Book/Textures/Cover.uasset" 1048
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/M_Paige.uasset" 1049
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/unknown__1_.uasset" 1050
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/Characters/unknown__2_.uasset" 1051
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_DarkYellow.uasset" 1052
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightGreen.uasset" 1053
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightGrey.uasset" 1054
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightPurple.uasset" 1055
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightRed.uasset" 1056
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_LightYellow.uasset" 1057
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Orange.uasset" 1058
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/JustColors/M_Purple.uasset" 1059
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Geometry/Meshes/1M_Cube.uasset" 1060
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1061
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Geometry/Meshes/CubeMaterial.uasset" 1062
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Geometry/Meshes/TemplateFloor.uasset" 1063
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1064
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPersonJump_End.uasset" 1065
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 1066
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 1067
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1068
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Textures/T_Female_N.uasset" 1069
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Textures/T_Female_Mask.uasset" 1070
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Materials/MI_Female_Body.uasset" 1071
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 1072
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1073
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1074
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/StarterContent/Textures/T_MacroVariation.uasset" 1075
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Materials/OutsideTheBook/M_Wood_Walnut.uasset" 1076
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/StarterContent/Materials/M_Wood_Walnut.uasset" 1077
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPerson/Meshes/RampMaterial.uasset" 1078
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 1079
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 1080
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 1081
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 1082
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 1083
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPersonBP/ThirdPersonOverview.uasset" 1084
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/MainCharacter.uasset" 1085
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1086
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_Desktop_-_paige_walking1.uasset" 1087
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_Desktop_-_turning_the_page2.uasset" 1088
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_019_card_unfolding.uasset" 1089
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_024_phone_unplug.uasset" 1090
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/00_-_sfx_-_s_r1_025_phone_plug_in.uasset" 1091
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r1_020a_safe.uasset" 1092
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/d_r2_022_water_stain.uasset" 1093
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_001_kitchen_door_opening.uasset" 1094
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_006_pouring_hot_chocolate.uasset" 1095
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_007_mixer_loop2.uasset" 1096
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_009_cocoa_pot_opening.uasset" 1097
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_010_cocoa_pot_closing.uasset" 1098
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_012_hot_chocolate_loop.uasset" 1099
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_013_pouring_milk.uasset" 1100
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/s_r3_014_pouring_cocoa.uasset" 1101
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/test.uasset" 1102
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/SFX/Three_Pages_Cue.uasset" 1103
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_01_barbara.uasset" 1104
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_02_becky.uasset" 1105
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_03_barbie.uasset" 1106
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_04_bella.uasset" 1107
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_05_bonnie.uasset" 1108
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_06_bernadette.uasset" 1109
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_07_bianca.uasset" 1110
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_08_babsi.uasset" 1111
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_09_baldrun.uasset" 1112
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_10_beatrice.uasset" 1113
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_11_brigitta.uasset" 1114
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_12_bess.uasset" 1115
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_13_benjamina.uasset" 1116
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_14_bethany.uasset" 1117
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_15_betsy.uasset" 1118
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_16_bibi.uasset" 1119
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_17_billie.uasset" 1120
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_18_bilat.uasset" 1121
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_19_birthe.uasset" 1122
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_20_bridget.uasset" 1123
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_21_britney.uasset" 1124
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_003_b_name_22_buffy.uasset" 1125
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/00_-_voice_-_d_r1_034_tutorial.uasset" 1126
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_005_mug_shelf.uasset" 1127
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_006_cocoa.uasset" 1128
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_009_making_hot_chocolate.uasset" 1129
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Sounds/Voicelines/d_r3_010_obtaining_hot_chocolate.uasset" 1130
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 1131
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1132
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1133
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 1134
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 1135
+"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 1136
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 1137
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 1138
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1139
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 1140
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1143
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 1144
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 1145
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 1146
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 1147
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 1148
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 1149
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 1150
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 1151
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 1152
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 1153
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 1154
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 1155
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 1156
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 1157
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 1158
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 1159
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 1160
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 1161
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 1162
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 1163
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 1164
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 1165
+"../../../Engine/Content/BufferVisualization/WorldTangent.uasset" 1166
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 1167
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 1168
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 1169
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 1170
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1171
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1172
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 1173
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 1174
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 1175
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 1176
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 1177
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 1178
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 1179
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 1180
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 1181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 1182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 1183
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 1184
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 1185
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 1186
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 1187
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 1188
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 1189
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 1190
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 1191
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 1192
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 1193
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1194
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1195
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1196
+"../../../Engine/Content/EditorResources/S_Note.uasset" 1197
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 1198
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 1199
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 1200
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1201
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1202
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1203
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 1204
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1205
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 1207
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 1208
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 1209
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1210
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 1211
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 1212
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 1213
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1214
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 1215
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 1216
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 1217
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 1218
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 1219
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 1220
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 1221
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 1222
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 1223
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 1224
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 1225
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 1226
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 1227
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 1228
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 1229
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 1230
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 1231
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 1232
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 1233
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 1234
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 1235
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 1236
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 1237
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1238
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1239
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 1240
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 1241
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 1242
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 1243
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 1244
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 1245
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 1246
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 1247
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 1248
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1249
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1250
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1252
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1253
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1254
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1255
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1256
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 1257
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 1258
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 1259
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 1260
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 1261
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 1262
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 1263
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 1264
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1265
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1266
+"../../../Engine/Content/EngineResources/Black.uasset" 1267
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 1268
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 1269
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 1270
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 1271
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 1272
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 1273
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 1274
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 1275
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 1276
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 1277
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 1278
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 1279
+"../../../Engine/Content/EngineSounds/Master.uasset" 1280
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 1281
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 1282
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 1283
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 1284
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1285
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1286
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1287
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1288
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1289
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1290
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1291
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1292
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1293
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1295
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1297
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1298
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1301
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1302
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1303
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1304
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 1305
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1306
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1307
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1308
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1309
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1310
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1311
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1312
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1313
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1314
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1315
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1316
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1317
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1318
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1319
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1320
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1321
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1322
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1323
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1324
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1325
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1326
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 1328
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 1329
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 1330
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 1331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1332
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 1333
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 1334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 1335
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 1336
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 1337
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 1338
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 1339
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 1340
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 1341
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 1342
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 1343
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 1344
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1345
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1348
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Maps/EmptyLoadUpMap.umap" 1349
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/BP_OurGM.uasset" 1350
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1351
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/HopeToSaveLight_BuiltData.uasset" 1352
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Actors/TV.uasset" 1353
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/Blueprints/Actors/Shelf.uasset" 1354
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/HopeToSaveLight.umap" 1355
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1356
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/Lewin.umap" 1357
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/LewinCopy.umap" 1358
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Blueprints/LewinCopy2.umap" 1359
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/dm2.umap" 1360
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/DanielMapCopy_BuiltData.uasset" 1361
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/DanielMapCopy.umap" 1362
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/DanielTestMap2_backup.umap" 1363
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/LewinTestMap_BuiltData.uasset" 1364
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/LewinTestMap.umap" 1365
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/Test.umap" 1366
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1367
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1368
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1369
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1370
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/TestMap_BuiltData.uasset" 1371
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1372
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1373
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1374
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1375
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1376
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1377
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1378
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPersonWalk.uasset" 1379
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPersonRun.uasset" 1380
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPersonIdle.uasset" 1381
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1382
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPerson_Jump.uasset" 1383
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1384
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1385
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1386
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 1387
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/NewGameModeTest.uasset" 1388
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Lewin/TestMap.umap" 1389
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/Daniel/DanielTestMap2.umap" 1390
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 1391
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/other/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 1392
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 1393
+"../../../../../Users/niwel/Documents/Unreal Projects/HotelTomeWS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 1394
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1395
+"../../../Engine/Content/Maps/Entry.umap" 1396
